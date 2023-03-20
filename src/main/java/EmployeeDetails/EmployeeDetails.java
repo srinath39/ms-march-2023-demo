@@ -1,4 +1,4 @@
-package com.employee.source;
+package EmployeeDetails;
 
 public class EmployeeDetails {
 	private int id;
@@ -56,3 +56,4 @@ public class EmployeeDetails {
 		this.salary = salary;
 	}
 }
+
