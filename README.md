@@ -2,7 +2,7 @@
 
 ## Date Time:  6:30 pm Saturday, 18 March 2023 (IST)
 
-![Mangali Srinath|150x150](./Images/srinath.png)
+![Mangali Srinath|150x150](./Images/Profile.jpeg)
 
 
 ## Java Training acquired
