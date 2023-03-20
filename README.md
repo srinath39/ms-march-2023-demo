@@ -23,5 +23,27 @@
 
 ![Pull Request|150x150](./Images/Second.png)
 ## Employee Management System Using Java Swing
-> 1. Topic-1
-> 1. Topic-2
+This is a Java Swing application for managing employee information.
+
+It has the following functionalities:
+
+>1. **Add employee:** Allows you to add a new employee to the system by entering their personal and employment details. <br/>
+>2. **Delete employee:** Allows you to delete an existing employee from the system. <br/>
+>3. **Update employee:** Allows you to update the personal and employment details of an existing employee. <br/>
+>4. **Display employee:** Shows a list of all employees in a JTable, with their personal and employment details.
+
+# Classes :
+The application consists of the following classes:
+
+**EmployeeManagement:** This class is responsible for establishing a connection with a database using JDBC. Edit the EmployeeManagement.java file to provide your database details. <br/>
+**EmployeeManagementSystem:** This class contains methods for inserting, deleting, and updating employee records in the database. <br/>
+**EmployeeDetails:** This class stores the personal and employment details of a single employee. <br/>
+
+# Prerequisites
+**MySQL database:** The application uses a MySQL database to store employee records. create a database with name `mydb` and also create tables with following sql files. The `mydb_admin.sql` file contains the SQL query to create the necessary table for login .The `mydb_employee.sql` file contains the SQL query to create the employee table.
+
+# How to run the application : 
+1. Clone the repository to your local machine.
+2. Open the project in an IDE such as Eclipse.
+3. Build and run the project run `EmployeeManagement.java` file.
+4. The application will open in a new window. login with correct credentials and Follow the prompts to add, delete, update, or display employees.
