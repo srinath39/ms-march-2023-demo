@@ -47,3 +47,32 @@ The application consists of the following classes:
 2. Open the project in an IDE such as Eclipse.
 3. Build and run the project run `EmployeeManagement.java` file.
 4. The application will open in a new window. login with correct credentials and Follow the prompts to add, delete, update, or display employees.
+
+# login
+
+![login|150x150](./Images/login.png)
+
+# menu
+
+![menu|150x150](./Images/menu.png)
+
+# View All Employees
+
+![view_all|150x150](./Images/view_all.png)
+
+# Add
+
+![add|150x150](./Images/add.png)
+
+# Edit
+
+![edit_id|150x150](./Images/edit_id.png)
+![edit_open|150x150](./Images/edit_open.png)
+
+# delete
+
+![delete|150x150](./Images/delete_id.png)
+![delete_result|150x150](./Images/delete_result.png)
+
+
+
