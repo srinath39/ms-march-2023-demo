@@ -60,16 +60,16 @@ The application consists of the following classes:
 
 ![view_all|150x150](./Images/view_all.png)
 
-# Add
+# Add an Employee
 
 ![add|150x150](./Images/add.png)
 
-# Edit
+# Edit an Employee
 
 ![edit_id|150x150](./Images/edit_id.png)
 ![edit_open|150x150](./Images/edit_open.png)
 
-# delete
+# delete an Employee
 
 ![delete|150x150](./Images/delete_id.png)
 ![delete_result|150x150](./Images/delete_result.png)
