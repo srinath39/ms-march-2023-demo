@@ -35,7 +35,7 @@ It has the following functionalities:
 # Classes :
 The application consists of the following classes:
 
-**EmployeeManagement:** This class is responsible for establishing a connection with a database using JDBC. Edit the EmployeeManagement.java file to provide your database details. <br/>
+**EmployeeManagement:** This class is a Main class and responsible for establishing a connection with a database using JDBC. Edit the EmployeeManagement.java file to provide your database details. <br/>
 **EmployeeManagementSystem:** This class contains methods for inserting, deleting, and updating employee records in the database. <br/>
 **EmployeeDetails:** This class stores the personal and employment details of a single employee. <br/>
 
@@ -73,6 +73,18 @@ The application consists of the following classes:
 
 ![delete|150x150](./Images/delete_id.png)
 ![delete_result|150x150](./Images/delete_result.png)
+
+# Code Description
+
+**EmployeeManagement.java:** [https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagement.java](https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagement.java
+)
+
+**EmployeeManagementSystem.java:** [https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagementSystem.java](https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagementSystem.java
+)
+
+**EmployeeDetails.java:** [https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeDetails/EmployeeDetails.java](https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeDetails/EmployeeDetails.java)
+
+
 
 
 
