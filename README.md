@@ -1,6 +1,6 @@
 # Mangali Srinath
 
-## Date Time:  6:30 pm Saturday, 18 March 2023 (IST)
+## Date Time:  11:30 pm wednesday, 22 March 2023 (IST)
 
 ![Mangali Srinath|150x150](./Images/srinath.png)
 
