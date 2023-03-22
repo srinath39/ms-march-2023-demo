@@ -40,7 +40,7 @@ The application consists of the following classes:
 **EmployeeDetails:** This class stores the personal and employment details of a single employee. <br/>
 
 # Prerequisites
-**MySQL database:** The application uses a MySQL database to store employee records. create a database with name `mydb` and also create tables with following sql files. The `mydb_admin.sql` file contains the SQL query to create the necessary table for login .The `mydb_employee.sql` file contains the SQL query to create the employee table.
+**MySQL database:** The application uses a MySQL database to store employee records. create a database with name `mydb` and also create tables with following sql files in `Prerequisites_SQL` folder. The `mydb_admin.sql` file contains the SQL query to create the necessary table for login .The `mydb_employee.sql` file contains the SQL query to create the employee table.
 
 # How to run the application : 
 1. Clone the repository to your local machine.
