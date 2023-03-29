@@ -37,10 +37,9 @@ The application consists of the following classes:
 
 **EmployeeManagement:** This class is a Main class and responsible for establishing a connection with a database using JDBC. Edit the EmployeeManagement.java file to provide your database details. <br/>
 **EmployeeManagementSystem:** This class contains methods for inserting, deleting, and updating employee records in the database. <br/>
-**EmployeeDetails:** This class stores the personal and employment details of a single employee. <br/>
 
 # Prerequisites
-**MySQL database:** The application uses a MySQL database to store employee records. create a database with name `mydb` and also create tables with following sql files in `Prerequisites_SQL` folder. The `mydb_admin.sql` file contains the SQL query to create the necessary table for login .The `mydb_employee.sql` file contains the SQL query to create the employee table.
+**MySQL database:** The application uses a MySQL database to store employee records. create a database with name `mydb` and also create tables with following sql files in `Prerequisites_SQL` folder. The `mydb_admin.sql` file contains the SQL queries to create the necessary table for login .The `mydb_employee.sql` file contains the SQL queries to create the employee table and The `mydb_available.sql` file contains the SQL queries to create employee week availability.
 
 # How to run the application : 
 1. Clone the repository to your local machine.
@@ -51,6 +50,10 @@ The application consists of the following classes:
 # login
 
 ![login|150x150](./Images/login.png)
+
+# Forgot Password
+
+![login|150x150](./Images/forgot_password.png)
 
 # menu
 
@@ -82,7 +85,6 @@ The application consists of the following classes:
 **EmployeeManagementSystem.java:** [https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagementSystem.java](https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeManagementSystem.java
 )
 
-**EmployeeDetails.java:** [https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeDetails/EmployeeDetails.java](https://github.com/srinath39/ms-march-2023-demo/blob/main/EmployeeManagement/src/main/java/EmployeeDetails/EmployeeDetails.java)
 
 
 
